@@ -1,0 +1,1 @@
+// WAP that takes a number from 0 to 5 and prints its spelling 

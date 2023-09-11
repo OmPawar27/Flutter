@@ -1,0 +1,20 @@
+// WAP to take a number and print wheather it is less than 10 or grater than 10
+
+void main(){
+    int x = 5;
+
+    if(x<10){
+        print("$x is less than 10");
+    }else{
+        print("$x is greater than 10");
+    }
+
+    x = 15;
+
+    if(x>10){
+        print("$x is greater than 10");
+    }else{
+        print("$x is less than 10");
+    }
+
+}
